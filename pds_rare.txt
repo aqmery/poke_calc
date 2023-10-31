@@ -1,0 +1,60 @@
+----- Pokédex aqmery -----
+
+
+Paradox🌟 (9/16)
+:great_tusk: Great-Tusk
+:scream_tail: Scream-Tail
+
+
+UB🌟 (6/11)
+:nihilego: Nihilego
+
+5🌟 (48/84)
+:zapdos: Zapdos x3
+
+4🌟 (157/163)
+:venusaur: Venusaur
+:charizard: Charizard
+:porygon2: Porygon2
+:porygon2: Porygon2 x2
+:gengar: Gengar x2
+:snorlax: Snorlax x244
+
+3🌟 (331/335)
+:ivysaur: Ivysaur x2
+:charmeleon: Charmeleon x2
+:wartortle: Wartortle
+:xatu: Xatu x2
+
+2🌟 (225/225)
+:bulbasaur: Bulbasaur x2
+:charmander: Charmander x228
+
+
+1🌟 (176/176)
+:caterpie: Caterpie x7
+:weedle: Weedle x5
+
+UB:shinySparkles: (1/11)
+:guzzlordS: Guzzlord :shinySparkles:
+
+
+5:shinySparkles: (2/84)
+:regiceS: Regice :shinySparkles:
+:cresseliaS: Cresselia :shinySparkles:
+
+
+4:shinySparkles: (37/163)
+:nidoqueenS: Nidoqueen :shinySparkles:
+
+3:shinySparkles: (45/335)
+:poliwrathS: Poliwrath :shinySparkles:
+
+2:shinySparkles: (46/225)
+:bulbasaurS: Bulbasaur :shinySparkles:
+:parasectS: Parasect :shinySparkles:
+
+1:shinySparkles: (152/176)
+:caterpieS: Caterpie :shinySparkles:
+:weedleS: Weedle :shinySparkles:
+:phanpyS: Phanpy :shinySparkles: x2

@@ -955,10 +955,10 @@ Zygarde
 Diancie
 Hoopa
 Volcanion
-Tapu Koko
-Tapu Lele
-Tapu Bulu
-Tapu Fini
+TapuKoko
+TapuLele
+TapuBulu
+TapuFini
 Cosmog
 Cosmoem
 Solgaleo
